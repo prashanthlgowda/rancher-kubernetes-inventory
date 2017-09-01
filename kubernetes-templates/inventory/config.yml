@@ -1,4 +1,4 @@
-name: Dell SMI Server Inventory Microservice
+name: DellEMC SMI Server Inventory Microservice
 description: |
   (Experimental) SMI Server Inventory Microservice
 version: 1.0.0
